@@ -7,13 +7,13 @@
     $ show databases;
 
 ## use a database
-   $  use <databaseName>;
+    $  use <databaseName>;
 
 ## View a table
-   $ decribe <tableName>;
+    $ decribe <tableName>;
 
 ## select all properties
-   $ select * from <tableName>
+    $ select * from <tableName>
 
-
-
+Other codes go as it is in the SQL language :)
+Happy Coding !
